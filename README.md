@@ -71,7 +71,12 @@ Change your query and try again!!**
    ```sh
    pip3.10 install requirements.txt
    ```
-6. Start `main`
+6. Add `query_id/user`
+   ```sh
+   nano query.txt
+   ```
+    back nano: crtl+x - y - enter
+7. Start `main`
    ```sh
    python3.10 main.py
    ```
