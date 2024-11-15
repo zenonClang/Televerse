@@ -75,8 +75,10 @@ Change your query and try again!!**
    ```sh
    nano query.txt
    ```
-    back nano: crtl+x - y - enter
-7. Start `main`
+    back nano: crtl+x - y - enter   
+         how to get query [HERE](https://t.me/zzenonFox/13)
+   
+8. Start `main`
    ```sh
    python3.10 main.py
    ```
