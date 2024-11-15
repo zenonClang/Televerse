@@ -38,9 +38,6 @@ Change your query and try again!!**
    ```sh
    pkg install git nano -y
    ````
-   ```sh
-   pkg install git clone
-   ````
    
 ## **Installasion Python3.10🎭**
    ```sh
@@ -88,5 +85,9 @@ UQArKt8bbgvetDGRBv5v4TtyteUPqpy1xyGDCfT2aow6LwIX
 
 [![ETH](https://img.shields.io/badge/Ethereum-2288CB?logo=ethereum&logoColor=white)](#)
 0x4DF918BcAB3A228186169FeF8B2A007a36cD33eF
+
+## License
+This project is licensed under the GNU General Public License v3 (GPLv3) - see the [LICENSE](LICENSE) file for details.
+
 
 # Thank YOU #
